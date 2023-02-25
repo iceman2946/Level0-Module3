@@ -2,7 +2,7 @@
 void setup() {
  
   // set the size of your sketch
-  
+  size(500,500);
 }
 
 void draw() {
